@@ -205,6 +205,11 @@ if __name__ == '__main__':
     cap.release()
 
 ```
+* 实际部署推理结果：
+
+![](https://ai-studio-static-online.cdn.bcebos.com/13160624d06146a9ac74c8987fe1157810bbd11107df40498a0bf7d1dd7c6716)
+
+
 * 部署模型已加载到项目中
 * 项目对应AIStudio链接：https://aistudio.baidu.com/aistudio/projectdetail/1608121
 * 最佳训练模型下载链接：https://aistudio.baidu.com/aistudio/datasetdetail/73911
